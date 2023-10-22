@@ -8,4 +8,4 @@ export { useCookieStore } from '../composables/cookie';
 export { useLocaleStore } from '../composables/locale';
 export { usePinia } from '../node_modules/.pnpm/@pinia+nuxt@0.4.11_typescript@4.9.5_vue@3.3.6/node_modules/@pinia/nuxt/dist/runtime/composables';
 export { useColorMode } from '../node_modules/.pnpm/@nuxtjs+color-mode@3.3.0/node_modules/@nuxtjs/color-mode/dist/runtime/composables';
-export { definePageMeta } from '../node_modules/.pnpm/nuxt@3.8.0_eslint@8.52.0_typescript@4.9.5_vite@4.5.0/node_modules/nuxt/dist/pages/runtime/composables';
+export { definePageMeta } from '../node_modules/.pnpm/nuxt@3.8.0_eslint@8.52.0_typescript@4.9.5_vite@2.9.0/node_modules/nuxt/dist/pages/runtime/composables';

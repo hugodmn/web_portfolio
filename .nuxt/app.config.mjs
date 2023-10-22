@@ -4,7 +4,7 @@ import { defuFn } from '/Users/hugo/Desktop/web_portfolio/node_modules/.pnpm/def
 
 const inlineConfig = {
   "nuxt": {
-    "buildId": "56d9723a-2304-4711-bfe3-b0ff3ddaea73"
+    "buildId": "2e2ed993-5c7a-4857-9cbe-c2a013741050"
   }
 }
 
