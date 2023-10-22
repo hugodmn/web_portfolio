@@ -1,0 +1,23 @@
+{
+	"prefix": "twemoji",
+	"name": "Twitter Emoji",
+	"total": 3668,
+	"author": {
+		"name": "Twitter",
+		"url": "https://github.com/twitter/twemoji"
+	},
+	"license": {
+		"title": "CC BY 4.0",
+		"spdx": "CC-BY-4.0",
+		"url": "https://creativecommons.org/licenses/by/4.0/"
+	},
+	"samples": [
+		"anguished-face",
+		"duck",
+		"crossed-swords"
+	],
+	"height": 36,
+	"displayHeight": 18,
+	"category": "Emoji",
+	"palette": true
+}
