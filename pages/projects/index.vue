@@ -41,6 +41,61 @@ useHead({
 
           </a>
         </li> -->
+        <li class="blog-post-item">
+          <a href="https://hugodmn.github.io/shakespeare_generation.github.io/k">
+
+            <figure class="blog-banner-box">
+              <img src="/images/shakespeare.png" alt="Training transformer on text generation" loading="lazy">
+            </figure>
+
+            <div class="blog-content">
+
+              <div class="blog-meta">
+                <p class="blog-category">Deep Learning</p>
+
+                <span class="dot" />
+
+                <time datetime="2022-02-23">2023</time>
+              </div>
+
+              <h3 class="h3 blog-item-title">Training transformer on text generation</h3>
+
+              <p class="blog-text">
+                Training a transformer on Shakespeare corpus with 3 different tokenizers, displaying the losses and generated text each 200 steps
+              </p>
+
+            </div>
+
+          </a>
+        </li>
+
+        <li class="blog-post-item">
+          <a href="https://hugodmn.github.io/keyboard_trackpad.github.io/">
+
+            <figure class="blog-banner-box">
+              <img src="/images/emnist.png" alt="Handwritten letter learning" loading="lazy">
+            </figure>
+
+            <div class="blog-content">
+
+              <div class="blog-meta">
+                <p class="blog-category">Deep Learning</p>
+
+                <span class="dot" />
+
+                <time datetime="2022-02-23">2023</time>
+              </div>
+
+              <h3 class="h3 blog-item-title">"Handwritten letter learning</h3>
+
+              <p class="blog-text">
+                Training Resnet-18 on EMNIST for handwritten letter recognition
+              </p>
+
+            </div>
+
+          </a>
+        </li>
 
         <li class="blog-post-item">
           <a href="https://github.com/electron260/Flash_GPT">
