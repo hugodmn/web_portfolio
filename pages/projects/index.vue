@@ -42,7 +42,7 @@ useHead({
           </a>
         </li> -->
         <li class="blog-post-item">
-          <a href="https://hugodmn.github.io/shakespeare_generation.github.io/k">
+          <a href="https://hugodmn.github.io/shakespeare_generation.github.io/">
 
             <figure class="blog-banner-box">
               <img src="/images/shakespeare.png" alt="Training transformer on text generation" loading="lazy">
@@ -86,7 +86,7 @@ useHead({
                 <time datetime="2022-02-23">2023</time>
               </div>
 
-              <h3 class="h3 blog-item-title">"Handwritten letter learning</h3>
+              <h3 class="h3 blog-item-title">Handwritten letter learning</h3>
 
               <p class="blog-text">
                 Training Resnet-18 on EMNIST for handwritten letter recognition
