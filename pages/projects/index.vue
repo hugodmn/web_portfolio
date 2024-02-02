@@ -42,6 +42,34 @@ useHead({
           </a>
         </li> -->
         <li class="blog-post-item">
+          <a href="https://github.com/hugodmn/ThreeJsProject?tab=readme-ov-file">
+
+            <figure class="blog-banner-box">
+              <img src="/images/threejs.png" alt="3D Speech-Driven Animation Web App" loading="lazy">
+            </figure>
+
+            <div class="blog-content">
+
+              <div class="blog-meta">
+                <p class="blog-category">Deep Learning</p>
+
+                <span class="dot" />
+
+                <time datetime="2022-02-23">2024</time>
+              </div>
+
+              <h3 class="h3 blog-item-title">3D Speech-Driven Animation Web App</h3>
+
+              <p class="blog-text">
+                3D animations driven by real-time speech synthesis, using a custom transformer model for text generation
+              </p>
+
+            </div>
+
+          </a>
+        </li>
+
+        <li class="blog-post-item">
           <a href="https://hugodmn.github.io/shakespeare_generation.github.io/">
 
             <figure class="blog-banner-box">
