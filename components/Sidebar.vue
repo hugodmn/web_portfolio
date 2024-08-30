@@ -59,7 +59,7 @@ function toggleMenu() {
               Github
             </p>
 
-            <a href="https://github.com/electron260" class="contact-link" target="_blank">electron260</a>
+            <a href="https://github.com/hugodmn" class="contact-link" target="_blank">hugodmn</a>
           </div>
         </li>
 
