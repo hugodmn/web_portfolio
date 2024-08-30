@@ -85,6 +85,19 @@ useHead({
       </div>
 
       <ol class="timeline-list">
+
+        <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">
+            Airbus Defence & Space (6 months internship)
+          </h4>
+
+          <span>2024</span>
+
+          <p class="timeline-text">
+            Analysis of hybridization modalities between deep learning and symbolic approaches for the multi-object tracking task.
+          </p>
+        </li>
+
         <li class="timeline-item">
           <h4 class="h4 timeline-item-title">
             Emobot (5 months internship)

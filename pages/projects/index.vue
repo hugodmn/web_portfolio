@@ -41,6 +41,35 @@ useHead({
 
           </a>
         </li> -->
+
+        <li class="blog-post-item">
+          <a href="https://github.com/hugodmn/Pokesprite-Generation">
+
+            <figure class="blog-banner-box">
+              <img src="/images/threejs.png" alt="Pokesprite generation" loading="lazy">
+            </figure>
+
+            <div class="blog-content">
+
+              <div class="blog-meta">
+                <p class="blog-category">Deep Learning</p>
+
+                <span class="dot" />
+
+                <time datetime="2022-02-23">work in progress...</time>
+              </div>
+
+              <h3 class="h3 blog-item-title">Pokesprite generation</h3>
+
+              <p class="blog-text">
+                Training a diffusion model from scratch to generate pokemon sprites (64x64 images).
+              </p>
+
+            </div>
+
+          </a>
+        </li>
+
         <li class="blog-post-item">
           <a href="https://github.com/hugodmn/ThreeJsProject?tab=readme-ov-file">
 
