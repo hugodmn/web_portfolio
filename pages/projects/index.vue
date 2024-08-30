@@ -46,7 +46,7 @@ useHead({
           <a href="https://github.com/hugodmn/Pokesprite-Generation">
 
             <figure class="blog-banner-box">
-              <img src="/images/threejs.png" alt="Pokesprite generation" loading="lazy">
+              <img src="/images/pokesprite.png" alt="Pokesprite generation" loading="lazy">
             </figure>
 
             <div class="blog-content">
