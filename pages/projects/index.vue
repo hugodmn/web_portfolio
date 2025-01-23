@@ -56,7 +56,7 @@ useHead({
 
                 <span class="dot" />
 
-                <time datetime="2022-02-23">work in progress...</time>
+                <time datetime="2022-02-23">2024</time>
               </div>
 
               <h3 class="h3 blog-item-title">Pokesprite generation</h3>
